@@ -36,3 +36,10 @@ Os dados de acesso ao banco de dados estão expostos neste projeto, pois é dest
 ## Execução
 
 Para iniciar o servidor, execute:
+node nome-do-arquivo.js
+
+
+O servidor será iniciado na porta especificada.
+
+Certifique-se de substituir `nome-do-arquivo.js` pelo nome do arquivo onde o código está localizado.
+
